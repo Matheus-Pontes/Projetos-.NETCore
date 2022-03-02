@@ -1,0 +1,10 @@
+C:\Users\Matheus\_Projetos\_DOTNETCore\EditorHtml\bin\Debug\net6.0\EditorHtml.exe
+C:\Users\Matheus\_Projetos\_DOTNETCore\EditorHtml\bin\Debug\net6.0\EditorHtml.dll
+C:\Users\Matheus\_Projetos\_DOTNETCore\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.AssemblyReference.cache
+C:\Users\Matheus\_Projetos\_DOTNETCore\EditorHtml\obj\Debug\net6.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\_Projetos\_DOTNETCore\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\Matheus\_Projetos\_DOTNETCore\EditorHtml\obj\Debug\net6.0\EditorHtml.AssemblyInfo.cs
+C:\Users\Matheus\_Projetos\_DOTNETCore\EditorHtml\obj\Debug\net6.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\_Projetos\_DOTNETCore\EditorHtml\obj\Debug\net6.0\EditorHtml.dll
+C:\Users\Matheus\_Projetos\_DOTNETCore\EditorHtml\obj\Debug\net6.0\ref\EditorHtml.dll
+C:\Users\Matheus\_Projetos\_DOTNETCore\EditorHtml\obj\Debug\net6.0\EditorHtml.pdb

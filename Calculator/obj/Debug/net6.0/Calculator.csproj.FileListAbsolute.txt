@@ -1,0 +1,15 @@
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\bin\Debug\net6.0\ref\Calculator.dll
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\Matheus\_Projetos\_DOTNETCore\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
