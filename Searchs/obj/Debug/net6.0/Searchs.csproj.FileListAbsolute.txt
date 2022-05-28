@@ -1,0 +1,15 @@
+C:\Users\mpontes\Documents\Projeto\Searchs\bin\Debug\net6.0\Searchs.exe
+C:\Users\mpontes\Documents\Projeto\Searchs\bin\Debug\net6.0\Searchs.deps.json
+C:\Users\mpontes\Documents\Projeto\Searchs\bin\Debug\net6.0\Searchs.runtimeconfig.json
+C:\Users\mpontes\Documents\Projeto\Searchs\bin\Debug\net6.0\Searchs.dll
+C:\Users\mpontes\Documents\Projeto\Searchs\bin\Debug\net6.0\Searchs.pdb
+C:\Users\mpontes\Documents\Projeto\Searchs\obj\Debug\net6.0\Searchs.csproj.AssemblyReference.cache
+C:\Users\mpontes\Documents\Projeto\Searchs\obj\Debug\net6.0\Searchs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpontes\Documents\Projeto\Searchs\obj\Debug\net6.0\Searchs.AssemblyInfoInputs.cache
+C:\Users\mpontes\Documents\Projeto\Searchs\obj\Debug\net6.0\Searchs.AssemblyInfo.cs
+C:\Users\mpontes\Documents\Projeto\Searchs\obj\Debug\net6.0\Searchs.csproj.CoreCompileInputs.cache
+C:\Users\mpontes\Documents\Projeto\Searchs\obj\Debug\net6.0\Searchs.dll
+C:\Users\mpontes\Documents\Projeto\Searchs\obj\Debug\net6.0\refint\Searchs.dll
+C:\Users\mpontes\Documents\Projeto\Searchs\obj\Debug\net6.0\Searchs.pdb
+C:\Users\mpontes\Documents\Projeto\Searchs\obj\Debug\net6.0\Searchs.genruntimeconfig.cache
+C:\Users\mpontes\Documents\Projeto\Searchs\obj\Debug\net6.0\ref\Searchs.dll
