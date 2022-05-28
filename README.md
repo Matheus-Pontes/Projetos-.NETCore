@@ -2,6 +2,7 @@
  - Projetos iniciados com o auxilio do curso do site [balta.io](https://balta.io/) 
  - Incrementados pela minha criatividade kk. 
  - Pretendo colocar mais projetos aqui nesse repositório, como forma de fortalecer meus estudos quanto a linguagem C#, Framework .NETCore e arquitetura de software.
+ - Os projetos feitos até o momento foram apenas console.
 
 ## Ferramentas
 - Framework: .NETCore
