@@ -17,8 +17,3 @@
     - `dotnet build`
 - Executar:
     - `dotnet run` 
-
-## Futuros projetos
-- Projetos:
-    - .NETCore sendo WEB e integração com front-end e banco de dados. 
-        - Um novo repositório será criado.
