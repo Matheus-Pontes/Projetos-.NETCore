@@ -1,31 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpontes\\Documents\\Projeto\\Searchs\\Searchs.csproj": {}
+    "D:\\Projetos\\Projetos.NET6\\Searchs\\Searchs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpontes\\Documents\\Projeto\\Searchs\\Searchs.csproj": {
+    "D:\\Projetos\\Projetos.NET6\\Searchs\\Searchs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpontes\\Documents\\Projeto\\Searchs\\Searchs.csproj",
+        "projectUniqueName": "D:\\Projetos\\Projetos.NET6\\Searchs\\Searchs.csproj",
         "projectName": "Searchs",
-        "projectPath": "C:\\Users\\mpontes\\Documents\\Projeto\\Searchs\\Searchs.csproj",
-        "packagesPath": "C:\\Users\\mpontes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mpontes\\Documents\\Projeto\\Searchs\\obj\\",
+        "projectPath": "D:\\Projetos\\Projetos.NET6\\Searchs\\Searchs.csproj",
+        "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\Projetos.NET6\\Searchs\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mpontes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -59,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
