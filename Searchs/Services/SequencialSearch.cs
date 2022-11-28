@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Searchs
+﻿namespace Searchs
 {
     public class SequencialSearch : SearchInterface
     {
@@ -17,6 +11,7 @@ namespace Searchs
                 if (numberSearch == array[i])
                     position = i;
             }
+
 
             return position;
         }
